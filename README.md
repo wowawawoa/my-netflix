@@ -21,3 +21,4 @@ This is a full-stack clone of Netflix, built using React, Next.js, TailwindCSS a
 - [ ] user rating
 - [ ] user review
 - [ ] watch list
+- [ ] real movies api
